@@ -1,4 +1,3 @@
-# VERSION 0.1
 FROM alpine
 
 MAINTAINER abkumar
