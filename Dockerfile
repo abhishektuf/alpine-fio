@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER abkumar
+MAINTAINER Guna
 
 # Install build deps + permanent dep: libaio
 RUN apk --no-cache add \
